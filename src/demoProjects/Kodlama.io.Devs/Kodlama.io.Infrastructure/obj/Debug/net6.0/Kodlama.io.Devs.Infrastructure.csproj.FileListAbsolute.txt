@@ -9,3 +9,4 @@ C:\Users\MTY\Source\Repos\Kodlama.io.Devs\src\demoProjects\Kodlama.io.Devs\Kodla
 C:\Users\MTY\Source\Repos\Kodlama.io.Devs\src\demoProjects\Kodlama.io.Devs\Kodlama.io.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.dll
 C:\Users\MTY\Source\Repos\Kodlama.io.Devs\src\demoProjects\Kodlama.io.Devs\Kodlama.io.Infrastructure\obj\Debug\net6.0\ref\Kodlama.io.Devs.Infrastructure.dll
 C:\Users\MTY\Source\Repos\Kodlama.io.Devs\src\demoProjects\Kodlama.io.Devs\Kodlama.io.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.pdb
+C:\Users\MTY\Source\Repos\Kodlama.io.Devs\src\demoProjects\Kodlama.io.Devs\Kodlama.io.Infrastructure\obj\Debug\net6.0\Kodlama.io.Devs.Infrastructure.csproj.AssemblyReference.cache
