@@ -4003,11 +4003,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
+      "projectUniqueName": "C:\\Users\\MTY\\Desktop\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
       "projectName": "Core.CrossCuttingConcerns",
-      "projectPath": "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
+      "projectPath": "C:\\Users\\MTY\\Desktop\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\Core.CrossCuttingConcerns.csproj",
       "packagesPath": "C:\\Users\\MTY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\corePackages\\Core.CrossCuttingConcers\\obj\\",
+      "outputPath": "C:\\Users\\MTY\\Desktop\\nArchitecture\\src\\corePackages\\Core.CrossCuttingConcers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MTY\\AppData\\Roaming\\NuGet\\NuGet.Config",

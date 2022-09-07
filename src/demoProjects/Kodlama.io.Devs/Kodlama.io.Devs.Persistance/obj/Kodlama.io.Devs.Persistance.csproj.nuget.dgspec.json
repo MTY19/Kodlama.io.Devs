@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MTY\\Desktop\\sample\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Persistance\\Kodlama.io.Devs.Persistance.csproj": {}
+    "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Persistance\\Kodlama.io.Devs.Persistance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MTY\\Desktop\\sample\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Persistance\\Kodlama.io.Devs.Persistance.csproj": {
+    "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Persistance\\Kodlama.io.Devs.Persistance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MTY\\Desktop\\sample\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Persistance\\Kodlama.io.Devs.Persistance.csproj",
+        "projectUniqueName": "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Persistance\\Kodlama.io.Devs.Persistance.csproj",
         "projectName": "Kodlama.io.Devs.Persistance",
-        "projectPath": "C:\\Users\\MTY\\Desktop\\sample\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Persistance\\Kodlama.io.Devs.Persistance.csproj",
+        "projectPath": "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Persistance\\Kodlama.io.Devs.Persistance.csproj",
         "packagesPath": "C:\\Users\\MTY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MTY\\Desktop\\sample\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Persistance\\obj\\",
+        "outputPath": "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Persistance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MTY\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,12 @@
+C:\Users\MTY\Source\Repos\Kodlama.io.Devs\src\demoProjects\Kodlama.io.Devs\Kodlama.io.Devs.Application\bin\Debug\net6.0\Kodlama.io.Devs.Application.deps.json
+C:\Users\MTY\Source\Repos\Kodlama.io.Devs\src\demoProjects\Kodlama.io.Devs\Kodlama.io.Devs.Application\bin\Debug\net6.0\Kodlama.io.Devs.Application.dll
+C:\Users\MTY\Source\Repos\Kodlama.io.Devs\src\demoProjects\Kodlama.io.Devs\Kodlama.io.Devs.Application\bin\Debug\net6.0\ref\Kodlama.io.Devs.Application.dll
+C:\Users\MTY\Source\Repos\Kodlama.io.Devs\src\demoProjects\Kodlama.io.Devs\Kodlama.io.Devs.Application\bin\Debug\net6.0\Kodlama.io.Devs.Application.pdb
+C:\Users\MTY\Source\Repos\Kodlama.io.Devs\src\demoProjects\Kodlama.io.Devs\Kodlama.io.Devs.Application\obj\Debug\net6.0\Kodlama.io.Devs.Application.csproj.AssemblyReference.cache
+C:\Users\MTY\Source\Repos\Kodlama.io.Devs\src\demoProjects\Kodlama.io.Devs\Kodlama.io.Devs.Application\obj\Debug\net6.0\Kodlama.io.Devs.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MTY\Source\Repos\Kodlama.io.Devs\src\demoProjects\Kodlama.io.Devs\Kodlama.io.Devs.Application\obj\Debug\net6.0\Kodlama.io.Devs.Application.AssemblyInfoInputs.cache
+C:\Users\MTY\Source\Repos\Kodlama.io.Devs\src\demoProjects\Kodlama.io.Devs\Kodlama.io.Devs.Application\obj\Debug\net6.0\Kodlama.io.Devs.Application.AssemblyInfo.cs
+C:\Users\MTY\Source\Repos\Kodlama.io.Devs\src\demoProjects\Kodlama.io.Devs\Kodlama.io.Devs.Application\obj\Debug\net6.0\Kodlama.io.Devs.Application.csproj.CoreCompileInputs.cache
+C:\Users\MTY\Source\Repos\Kodlama.io.Devs\src\demoProjects\Kodlama.io.Devs\Kodlama.io.Devs.Application\obj\Debug\net6.0\Kodlama.io.Devs.Application.dll
+C:\Users\MTY\Source\Repos\Kodlama.io.Devs\src\demoProjects\Kodlama.io.Devs\Kodlama.io.Devs.Application\obj\Debug\net6.0\ref\Kodlama.io.Devs.Application.dll
+C:\Users\MTY\Source\Repos\Kodlama.io.Devs\src\demoProjects\Kodlama.io.Devs\Kodlama.io.Devs.Application\obj\Debug\net6.0\Kodlama.io.Devs.Application.pdb

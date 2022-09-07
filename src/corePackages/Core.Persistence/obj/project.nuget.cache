@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wbN4gKMHd3AxjFOnoM7TsqpdC679aRb/kBd4ch69+ru+gUk8fz/Fk7hhAGHQC2vxQdXZq3uDDGFXrEiw1InZXA==",
+  "dgSpecHash": "YHdx7f9HI4CalEM2WDnKC360SKWyvy1csgrWVjrzQN5SKq/Wj3MmpZXaQD98aEkR9GvJxneUMxEIlA7kjIxD5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
+  "projectFilePath": "C:\\Users\\MTY\\Desktop\\nArchitecture\\src\\corePackages\\Core.Persistence\\Core.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MTY\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "C:\\Users\\MTY\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",

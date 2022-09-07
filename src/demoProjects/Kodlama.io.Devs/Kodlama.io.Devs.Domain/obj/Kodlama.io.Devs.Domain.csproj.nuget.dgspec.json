@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MTY\\Desktop\\sample\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Domain\\Kodlama.io.Devs.Domain.csproj": {}
+    "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Domain\\Kodlama.io.Devs.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MTY\\Desktop\\sample\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Domain\\Kodlama.io.Devs.Domain.csproj": {
+    "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Domain\\Kodlama.io.Devs.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MTY\\Desktop\\sample\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Domain\\Kodlama.io.Devs.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Domain\\Kodlama.io.Devs.Domain.csproj",
         "projectName": "Kodlama.io.Devs.Domain",
-        "projectPath": "C:\\Users\\MTY\\Desktop\\sample\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Domain\\Kodlama.io.Devs.Domain.csproj",
+        "projectPath": "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Domain\\Kodlama.io.Devs.Domain.csproj",
         "packagesPath": "C:\\Users\\MTY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MTY\\Desktop\\sample\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Domain\\obj\\",
+        "outputPath": "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MTY\\AppData\\Roaming\\NuGet\\NuGet.Config",

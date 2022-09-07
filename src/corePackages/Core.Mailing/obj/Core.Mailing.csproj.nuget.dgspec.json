@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj": {}
+    "C:\\Users\\MTY\\Desktop\\nArchitecture\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj": {
+    "C:\\Users\\MTY\\Desktop\\nArchitecture\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
+        "projectUniqueName": "C:\\Users\\MTY\\Desktop\\nArchitecture\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
         "projectName": "Core.Mailing",
-        "projectPath": "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
+        "projectPath": "C:\\Users\\MTY\\Desktop\\nArchitecture\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
         "packagesPath": "C:\\Users\\MTY\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\obj\\",
+        "outputPath": "C:\\Users\\MTY\\Desktop\\nArchitecture\\src\\corePackages\\Core.Mailing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MTY\\AppData\\Roaming\\NuGet\\NuGet.Config",
