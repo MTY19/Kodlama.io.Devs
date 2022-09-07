@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o9ewGFvWZ98gSigKnXgW5VSgbgpvK6NKlNvoU76ueNQ/kseMwfYMKI8BhklfSBx2i14K/pVv0Vx1wya30HZj4w==",
+  "dgSpecHash": "Q0dhxNNEmFPEdJx5JN5RdZDGsFdTvXSWKAOTxHcLVQJOPE2/dJRrdbejlbTVXFYYtOyfzxRsnKl2OJtepYmUXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.WebAPI\\Kodlama.io.Devs.WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.WebAPI\\Kodlama.io.Devs.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MTY\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\MTY\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

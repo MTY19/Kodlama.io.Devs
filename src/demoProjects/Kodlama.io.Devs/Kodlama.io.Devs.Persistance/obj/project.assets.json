@@ -5684,11 +5684,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Persistance\\Kodlama.io.Devs.Persistance.csproj",
+      "projectUniqueName": "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Persistance\\Kodlama.io.Devs.Persistance.csproj",
       "projectName": "Kodlama.io.Devs.Persistance",
-      "projectPath": "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Persistance\\Kodlama.io.Devs.Persistance.csproj",
+      "projectPath": "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Persistance\\Kodlama.io.Devs.Persistance.csproj",
       "packagesPath": "C:\\Users\\MTY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Persistance\\obj\\",
+      "outputPath": "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Persistance\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MTY\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5705,11 +5705,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Application\\Kodlama.io.Devs.Application.csproj": {
-              "projectPath": "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Application\\Kodlama.io.Devs.Application.csproj"
+            "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Application\\Kodlama.io.Devs.Application.csproj": {
+              "projectPath": "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Application\\Kodlama.io.Devs.Application.csproj"
             },
-            "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Domain\\Kodlama.io.Devs.Domain.csproj": {
-              "projectPath": "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Domain\\Kodlama.io.Devs.Domain.csproj"
+            "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Domain\\Kodlama.io.Devs.Domain.csproj": {
+              "projectPath": "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Domain\\Kodlama.io.Devs.Domain.csproj"
             }
           }
         }

@@ -19,7 +19,7 @@
 		<ProjectReference Include="..\Kodlama.io.Devs.Domain\Kodlama.io.Devs.Domain.csproj" />
 	</ItemGroup>
 	<ItemGroup>
-	  <Folder Include="Features\ProgrammingLanguage\Constants\" />
+	  <Folder Include="Features\ProgrammingLanguages\Constants\" />
 	</ItemGroup>
 
 </Project>
