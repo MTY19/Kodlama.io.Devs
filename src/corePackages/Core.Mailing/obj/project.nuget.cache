@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F9HnJGvz80cW11oNeQn+308EgwRYnVS4OTHpaLOvLWwHbd3wsbExre526jaCyA0uejxaRL8OHd6mT0A38mCHBA==",
+  "dgSpecHash": "AfYP4SA7aDtR3OrySWNfFsnnS9OShfNZFaPKANg3e7vMGYtM1Cte2GDIY7dWG0A1d+hJHZGM/xYwXZej2rMZPQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MTY\\Desktop\\nArchitecture\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
+  "projectFilePath": "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\corePackages\\Core.Mailing\\Core.Mailing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MTY\\.nuget\\packages\\mailkit\\3.1.1\\mailkit.3.1.1.nupkg.sha512",
     "C:\\Users\\MTY\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
