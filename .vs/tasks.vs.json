@@ -5,6 +5,11 @@
       "taskLabel": "task-Kodlama.io",
       "appliesTo": "Kodlama.io.Devs/",
       "type": "launch"
+    },
+    {
+      "taskLabel": "task-Kodlama.io",
+      "appliesTo": "/",
+      "type": "launch"
     }
   ]
 }
