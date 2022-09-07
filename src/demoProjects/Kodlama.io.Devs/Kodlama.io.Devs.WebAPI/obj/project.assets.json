@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.WebAPI\\Kodlama.io.Devs.WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\MTY\\Desktop\\sample\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.WebAPI\\Kodlama.io.Devs.WebAPI.csproj",
       "projectName": "Kodlama.io.Devs.WebAPI",
-      "projectPath": "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.WebAPI\\Kodlama.io.Devs.WebAPI.csproj",
+      "projectPath": "C:\\Users\\MTY\\Desktop\\sample\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.WebAPI\\Kodlama.io.Devs.WebAPI.csproj",
       "packagesPath": "C:\\Users\\MTY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\MTY\\Desktop\\sample\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MTY\\AppData\\Roaming\\NuGet\\NuGet.Config",

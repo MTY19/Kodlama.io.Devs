@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Infrastructure\\Kodlama.io.Devs.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\MTY\\Desktop\\sample\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Infrastructure\\Kodlama.io.Devs.Infrastructure.csproj",
       "projectName": "Kodlama.io.Devs.Infrastructure",
-      "projectPath": "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Infrastructure\\Kodlama.io.Devs.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\MTY\\Desktop\\sample\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Infrastructure\\Kodlama.io.Devs.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\MTY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MTY\\source\\repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\MTY\\Desktop\\sample\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MTY\\AppData\\Roaming\\NuGet\\NuGet.Config",
