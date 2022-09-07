@@ -6,9 +6,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Kodlama.io.Devs.Application.Services
+namespace Kodlama.io.Devs.Application.Services.Repositories
 {
-    public interface IProgrammingLanguagesRepository : IAsyncRepository<ProgrammingLanguages>, IRepository<ProgrammingLanguages>
+    public interface IProgrammingLanguageRepository : IAsyncRepository<ProgrammingLanguage>, IRepository<ProgrammingLanguage>
     {
     }
 }

@@ -1,5 +1,6 @@
 ﻿using Core.Persistence.Repositories;
 using Kodlama.io.Devs.Application.Services;
+using Kodlama.io.Devs.Application.Services.Repositories;
 using Kodlama.io.Devs.Domain.Entities;
 using Kodlama.io.Devs.Persistance.Context;
 using System;
@@ -10,9 +11,9 @@ using System.Threading.Tasks;
 
 namespace Kodlama.io.Devs.Persistance.Repositories
 {
-    public class ProgrammingLanguagesRepository : EfRepositoryBase<ProgrammingLanguages, BaseDbContext>, IProgrammingLanguagesRepository
+    public class ProgrammingLanguageRepository : EfRepositoryBase<ProgrammingLanguage, BaseDbContext>, IProgrammingLanguageRepository
     {
-        public ProgrammingLanguagesRepository(BaseDbContext context) : base(context)
+        public ProgrammingLanguageRepository(BaseDbContext context) : base(context)
         {
         }
     }

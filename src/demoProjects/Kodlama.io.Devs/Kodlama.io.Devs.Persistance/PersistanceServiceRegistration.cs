@@ -1,4 +1,4 @@
-﻿using Kodlama.io.Devs.Application.Services;
+﻿using Kodlama.io.Devs.Application.Services.Repositories;
 using Kodlama.io.Devs.Persistance.Context;
 using Kodlama.io.Devs.Persistance.Repositories;
 using Microsoft.EntityFrameworkCore;
@@ -12,15 +12,15 @@ using System.Threading.Tasks;
 
 namespace Kodlama.io.Devs.Persistance
 {
-    public static class PersistanceServiceRegistration
+    public static class PersistenceServiceRegistration
     {
         public static IServiceCollection AddPersistenceServices(this IServiceCollection services,
-                                                        IConfiguration configuration)
+                                                                IConfiguration configuration)
         {
             services.AddDbContext<BaseDbContext>(options =>
                                                      options.UseSqlServer(
                                                          configuration.GetConnectionString("KodlamaIoDevsConnectionString")));
-            services.AddScoped<IProgrammingLanguagesRepository, ProgrammingLanguagesRepository>();
+            services.AddScoped<IProgrammingLanguageRepository, ProgrammingLanguageRepository>();
 
             return services;
         }

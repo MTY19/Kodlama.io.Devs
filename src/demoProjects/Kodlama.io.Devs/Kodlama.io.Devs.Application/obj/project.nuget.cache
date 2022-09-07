@@ -1,9 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "Xa6lQeuIua25IOpsxMeKeu64pVcDarFTiYYnyqnnKrv1hiiuuzGSrnBaonXnf5ieShxnaTUR5uHxehlpQ8Ft2A==",
+  "dgSpecHash": "5jYM/kviWOytC/nBzjU3Zn31eWm0C/3skzCZHTQ0Rp+dZd/m6D7nTp2bj08AHS//Rw95v9G8paiZp3H/20yeAQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Devs.Application\\Kodlama.io.Devs.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\MTY\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
+    "C:\\Users\\MTY\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\MTY\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\MTY\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\MTY\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.1\\mediatr.extensions.microsoft.dependencyinjection.10.0.1.nupkg.sha512",
+    "C:\\Users\\MTY\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\MTY\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.1\\microsoft.entityframeworkcore.6.0.1.nupkg.sha512",
     "C:\\Users\\MTY\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.1\\microsoft.entityframeworkcore.abstractions.6.0.1.nupkg.sha512",
     "C:\\Users\\MTY\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\6.0.1\\microsoft.entityframeworkcore.analyzers.6.0.1.nupkg.sha512",

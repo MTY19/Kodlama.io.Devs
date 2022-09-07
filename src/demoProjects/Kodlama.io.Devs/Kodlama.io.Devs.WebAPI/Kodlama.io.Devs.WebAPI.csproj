@@ -6,9 +6,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
-  <ItemGroup>
+	<ItemGroup>
 		<PackageReference Include="MediatR" Version="10.0.1" />
-		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.8">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
 		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.8" />
 		<PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
 		<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0" />
@@ -16,10 +19,18 @@
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
 		</PackageReference>
-  </ItemGroup>
+	</ItemGroup>
+
+	<ItemGroup>
+		<Folder Include="Controllers\" />
+		<Folder Include="logs\" />
+	</ItemGroup>
 	
   <ItemGroup>
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+	
+    <ProjectReference Include="..\Kodlama.io.Devs.Application\Kodlama.io.Devs.Application.csproj" />
+    <ProjectReference Include="..\Kodlama.io.Devs.Persistance\Kodlama.io.Devs.Persistance.csproj" />
+    <ProjectReference Include="..\Kodlama.io.Infrastructure\Kodlama.io.Devs.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
