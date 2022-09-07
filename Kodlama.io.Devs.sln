@@ -13,6 +13,14 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Kodlama.io.Devs", "Kodlama.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodlama.io.Devs.Application", "src\demoProjects\Kodlama.io.Devs\Kodlama.io.Devs.Application\Kodlama.io.Devs.Application.csproj", "{9123CA3F-5BEE-4E61-8D9D-9F3C789481C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodlama.io.Devs.Domain", "src\demoProjects\Kodlama.io.Devs\Kodlama.io.Devs.Domain\Kodlama.io.Devs.Domain.csproj", "{EBDC7F83-A3FD-4B03-B6B5-4111C77D47E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodlama.io.Devs.Infrastructure", "src\demoProjects\Kodlama.io.Devs\Kodlama.io.Infrastructure\Kodlama.io.Devs.Infrastructure.csproj", "{92C11B41-AB76-4E5A-8B43-FA6B98E996C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodlama.io.Devs.Persistance", "src\demoProjects\Kodlama.io.Devs\Kodlama.io.Devs.Persistance\Kodlama.io.Devs.Persistance.csproj", "{ADAC37A9-A851-4B39-A13B-D1F085016147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kodlama.io.Devs.WebAPI", "src\demoProjects\Kodlama.io.Devs\Kodlama.io.Devs.WebAPI\Kodlama.io.Devs.WebAPI.csproj", "{A52113ED-B40C-4773-9783-73F5657E559D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +31,22 @@ Global
 		{9123CA3F-5BEE-4E61-8D9D-9F3C789481C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9123CA3F-5BEE-4E61-8D9D-9F3C789481C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9123CA3F-5BEE-4E61-8D9D-9F3C789481C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBDC7F83-A3FD-4B03-B6B5-4111C77D47E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBDC7F83-A3FD-4B03-B6B5-4111C77D47E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBDC7F83-A3FD-4B03-B6B5-4111C77D47E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBDC7F83-A3FD-4B03-B6B5-4111C77D47E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92C11B41-AB76-4E5A-8B43-FA6B98E996C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C11B41-AB76-4E5A-8B43-FA6B98E996C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C11B41-AB76-4E5A-8B43-FA6B98E996C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C11B41-AB76-4E5A-8B43-FA6B98E996C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADAC37A9-A851-4B39-A13B-D1F085016147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADAC37A9-A851-4B39-A13B-D1F085016147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADAC37A9-A851-4B39-A13B-D1F085016147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADAC37A9-A851-4B39-A13B-D1F085016147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A52113ED-B40C-4773-9783-73F5657E559D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A52113ED-B40C-4773-9783-73F5657E559D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A52113ED-B40C-4773-9783-73F5657E559D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A52113ED-B40C-4773-9783-73F5657E559D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -32,6 +56,10 @@ Global
 		{08754ACF-B91A-4F3A-B0AC-5FFBFF8BAF18} = {B07C07E1-ED8C-4DB4-ADBD-4544C348C804}
 		{2400EBAE-6E41-4411-B4F5-FAA8921E4629} = {08754ACF-B91A-4F3A-B0AC-5FFBFF8BAF18}
 		{9123CA3F-5BEE-4E61-8D9D-9F3C789481C2} = {2400EBAE-6E41-4411-B4F5-FAA8921E4629}
+		{EBDC7F83-A3FD-4B03-B6B5-4111C77D47E3} = {2400EBAE-6E41-4411-B4F5-FAA8921E4629}
+		{92C11B41-AB76-4E5A-8B43-FA6B98E996C7} = {2400EBAE-6E41-4411-B4F5-FAA8921E4629}
+		{ADAC37A9-A851-4B39-A13B-D1F085016147} = {2400EBAE-6E41-4411-B4F5-FAA8921E4629}
+		{A52113ED-B40C-4773-9783-73F5657E559D} = {2400EBAE-6E41-4411-B4F5-FAA8921E4629}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FA5B5717-E0E1-43CC-944E-142F49815C09}
