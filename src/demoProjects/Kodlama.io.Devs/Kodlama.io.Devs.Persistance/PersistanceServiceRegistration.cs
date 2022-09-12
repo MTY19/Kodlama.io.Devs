@@ -1,6 +1,7 @@
 ﻿using Kodlama.io.Devs.Application.Services.Repositories;
 using Kodlama.io.Devs.Persistance.Context;
 using Kodlama.io.Devs.Persistance.Repositories;
+using Kodlama.io.Devs.Persistence.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -19,8 +20,14 @@ namespace Kodlama.io.Devs.Persistance
         {
             services.AddDbContext<BaseDbContext>(options =>
                                                      options.UseSqlServer(
-                                                         configuration.GetConnectionString("KodlamaIoDevsConnectionString")));
+                                                          configuration.GetConnectionString("KodlamaIoDevsConnectionString")));
+
             services.AddScoped<IProgrammingLanguageRepository, ProgrammingLanguageRepository>();
+            services.AddScoped<ITechnologyRepository, TechnologyRepository>();
+            services.AddScoped<IGithubAddressRepository, GithubAddressRepository>();
+            services.AddScoped<IUserOperationClaimRepository, UserOperationClaimRepository>();
+            services.AddScoped<IOperationClaimRepository, OperationClaimRepository>();
+            services.AddScoped<IGithubAddressRepository, GithubAddressRepository>();
 
             return services;
         }

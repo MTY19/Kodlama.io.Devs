@@ -34,3 +34,15 @@ C:\Users\MTY\source\repos\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\ob
 C:\Users\MTY\source\repos\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\ref\Core.ElasticSearch.dll
 C:\Users\MTY\source\repos\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.pdb
 C:\Users\MTY\source\repos\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.csproj.AssemblyReference.cache
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\Core.ElasticSearch.deps.json
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\Core.ElasticSearch.dll
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\ref\Core.ElasticSearch.dll
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\bin\Debug\net6.0\Core.ElasticSearch.pdb
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.csproj.AssemblyReference.cache
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.AssemblyInfoInputs.cache
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.AssemblyInfo.cs
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.csproj.CoreCompileInputs.cache
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.dll
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\ref\Core.ElasticSearch.dll
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.ElasticSearch\obj\Debug\net6.0\Core.ElasticSearch.pdb

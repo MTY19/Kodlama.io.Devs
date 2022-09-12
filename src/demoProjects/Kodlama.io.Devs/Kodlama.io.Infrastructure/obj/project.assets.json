@@ -8,19 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MTY\\.nuget\\packages\\": {}
+    "C:\\Users\\tahir.yildirim\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Infrastructure\\Kodlama.io.Devs.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\tahir.yildirim\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Infrastructure\\Kodlama.io.Devs.Infrastructure.csproj",
       "projectName": "Kodlama.io.Devs.Infrastructure",
-      "projectPath": "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Infrastructure\\Kodlama.io.Devs.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\MTY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MTY\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\tahir.yildirim\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Infrastructure\\Kodlama.io.Devs.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\tahir.yildirim\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\tahir.yildirim\\Source\\Repos\\Kodlama.io.Devs\\src\\demoProjects\\Kodlama.io.Devs\\Kodlama.io.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\MTY\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\tahir.yildirim\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

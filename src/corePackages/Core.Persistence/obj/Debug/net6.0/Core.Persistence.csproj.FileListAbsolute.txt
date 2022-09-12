@@ -33,3 +33,14 @@ C:\Users\MTY\source\repos\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\
 C:\Users\MTY\source\repos\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.dll
 C:\Users\MTY\source\repos\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\ref\Core.Persistence.dll
 C:\Users\MTY\source\repos\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.pdb
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.Persistence\bin\Debug\net6.0\Core.Persistence.deps.json
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.Persistence\bin\Debug\net6.0\Core.Persistence.dll
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.Persistence\bin\Debug\net6.0\ref\Core.Persistence.dll
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.Persistence\bin\Debug\net6.0\Core.Persistence.pdb
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.AssemblyInfoInputs.cache
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.AssemblyInfo.cs
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.dll
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\ref\Core.Persistence.dll
+C:\Users\tahir.yildirim\Source\Repos\Kodlama.io.Devs\src\corePackages\Core.Persistence\obj\Debug\net6.0\Core.Persistence.pdb
